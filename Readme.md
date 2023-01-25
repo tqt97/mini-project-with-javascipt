@@ -3,7 +3,8 @@
 
 <hr/>
 #####Some project in this repo:
-- Counter app
+1. Counter app
+2. Random generate number
 
 
 
